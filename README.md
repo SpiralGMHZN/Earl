@@ -1,5 +1,10 @@
-<h1>Bug Reporting For HorizonRP</h1>
-<h2>How To Submit Bugs And What You Get?</h2>
-<p>To Submit A Bug Simply Head To The Issues Tab</p>
+# What Is Earl?
+Earl is my current project, he is a computer assistant, Im trying to develop him to do the following functions:
+<ul>
+<li>Remember Conversations</li>
+<li>Intelligantly Respond To Conversations</li>
+<li>Gather Data From Online</li>
+</ul>
 
-... Will Update Soon
+# What Is This Repository For?
+To Simply Submit Bugs/Command Ideas For Me!
